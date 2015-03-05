@@ -1,7 +1,10 @@
+package ga.fxyz.enhance;
+
 /**
- * Enhance
+ * ga.fxyz.enhance.Enhance
  * Created by Michael Zhang.
  */
+
 public class Enhance {
 	/**
 	 * Entry point for the program.
